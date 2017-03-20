@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nightclub.iml" filepath="$PROJECT_DIR$/.idea/modules/Nightclub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nightclub_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Nightclub_main.iml" group="Nightclub" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nightclub_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Nightclub_test.iml" group="Nightclub" />
+    </modules>
+  </component>
+</project>
